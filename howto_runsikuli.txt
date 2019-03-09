@@ -1,0 +1,11 @@
+#works for running the IDE
+/Applications/SikuliX.app/run -r /Users/wandalcooper/Documents/Programming/Sikuli/Reservation2.sikuli
+
+#doesnt work
+/Users/wandalcooper/runsikulix -c
+
+#for the current version
+/Applications/SikuliX.app/run -r /Users/wandalcooper/jython2.7.0/Lib/mycustomlib/Reservation3.sikuli
+
+#just running the script, IDE already open
+/Users/wandalcooper/jython2.7.0/Lib/mycustomlib/Reservation3.sikuli
